@@ -1,0 +1,11 @@
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\BusinessProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\BusinessProductos.pdb
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\DataProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\EntityProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\DataProductos.pdb
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\bin\Debug\EntityProductos.pdb
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\obj\Debug\BusinessProductos.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\obj\Debug\BusinessProductos.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\obj\Debug\BusinessProductos.csproj.CopyComplete
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\obj\Debug\BusinessProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\BusinessProductos\obj\Debug\BusinessProductos.pdb

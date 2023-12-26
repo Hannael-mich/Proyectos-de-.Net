@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AgregaA</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.rtl.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container" style="margin: 0 auto; width: 50%;">
+        <form action="/Home/BuscarA" method="post">
+            <br /><br />
+            <h3>Agrega Palabras con "va" y/o "ba":</h3>
+            <br />
+            <input type="text" name="palabrasA" class="form-control form-control" placeholder="Escribe...." size="5" />
+            <br /> 
+            <input type="submit" value="verificar" class="btn btn-info" />
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿@using WebMusica.Models
+@model List<E_Cancion>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Consulta</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h1 class="display-3">Prueba</h1>
+
+        @if (TempData["mensaje"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["mensaje"]
+            </div>
+        }
+        @if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger">
+                <b>Ocurrio un error: </b> @TempData["error"]
+            </div>
+        }
+
+        <a href="/Cancion/IrAgregar" class="btn btn-success mt-3 mb-3">Agregar</a>
+
+        <table class="table table-hover table-bordered table-info">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Titulo</th>
+                    <th>Artista</th>
+                    <th>Album</th>
+                    <th>Duracion</th>
+                    <th>Fecha de Lanzamiento</th>
+                    <th>Genero</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (E_Cancion cancion in Model)
+                {
+                    <tr>
+                        <td>@cancion.idCancion</td>
+                        <td>@cancion.Titulo</td>
+                        <td>@cancion.Artista</td>
+                        <td>@cancion.Album</td> <!--c = currency-->
+                        <td>@cancion.Duracion</td>
+                        <td>@cancion.FechaLanzamiento.ToString("dd/MM/yyyyy")</td>
+                        <td>@cancion.Genero</td>
+                        <td>
+                            <a href="/Cancion/Eliminar?idCancion=@cancion.idCancion" class="btn btn-danger">Eliminar</a>
+                            <a href="/Cancion/ObtenerParaEditar?idCancion=@cancion.idCancion" class="btn btn-info">Editar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</body>
+</html>

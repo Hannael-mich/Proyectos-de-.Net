@@ -1,0 +1,14 @@
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.AssemblyInfoInputs.cache
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.AssemblyInfo.cs
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolPruebas\dePruebas\bin\Debug\net6.0\dePruebas.exe
+C:\Users\thann\source\repos\SolPruebas\dePruebas\bin\Debug\net6.0\dePruebas.deps.json
+C:\Users\thann\source\repos\SolPruebas\dePruebas\bin\Debug\net6.0\dePruebas.runtimeconfig.json
+C:\Users\thann\source\repos\SolPruebas\dePruebas\bin\Debug\net6.0\dePruebas.dll
+C:\Users\thann\source\repos\SolPruebas\dePruebas\bin\Debug\net6.0\dePruebas.pdb
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.dll
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\refint\dePruebas.dll
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.pdb
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\dePruebas.genruntimeconfig.cache
+C:\Users\thann\source\repos\SolPruebas\dePruebas\obj\Debug\net6.0\ref\dePruebas.dll

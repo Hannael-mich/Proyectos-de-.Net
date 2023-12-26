@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Vista</title>
+</head>
+<body>
+    <div>
+        <h1>Cerrar Página con C#</h1>
+
+        <!-- Botón para cerrar la página -->
+        <button id="cerrarBtn">Cerrar Página</button>
+
+        <script>
+        document.getElementById("cerrarBtn").addEventListener("click", function() {
+            // Llama a una función en el lado del servidor usando AJAX (C#)
+            cerrarPaginaDesdeServidor();
+        });
+        </script>
+    </div>
+</body>
+</html>

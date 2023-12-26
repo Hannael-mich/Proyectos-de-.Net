@@ -1,0 +1,6 @@
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\bin\Debug\EntityPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\bin\Debug\EntityPersonas.pdb
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\obj\Debug\EntityPersonas.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\obj\Debug\EntityPersonas.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\obj\Debug\EntityPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\EntityPersonas\obj\Debug\EntityPersonas.pdb

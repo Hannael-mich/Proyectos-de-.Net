@@ -1,0 +1,12 @@
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\BusinessPalabras.dll
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\BusinessPalabras.pdb
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\DataPalabras.dll
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\EntityFramework.dll
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\DataPalabras.pdb
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\DataPalabras.dll.config
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\bin\Debug\EntityFramework.xml
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\obj\Debug\BusinessPalabras.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\obj\Debug\BusinessPalabras.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\obj\Debug\BusinessPalabras.csproj.CopyComplete
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\obj\Debug\BusinessPalabras.dll
+C:\Users\thann\source\repos\SolPalabras\BusinessPalabras\obj\Debug\BusinessPalabras.pdb

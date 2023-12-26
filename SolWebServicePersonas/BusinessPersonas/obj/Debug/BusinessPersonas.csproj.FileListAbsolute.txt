@@ -1,0 +1,11 @@
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\obj\Debug\BusinessPersonas.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\obj\Debug\BusinessPersonas.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\BusinessPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\BusinessPersonas.pdb
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\EntityPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\EntityPersonas.pdb
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\obj\Debug\BusinessPersonas.csproj.CopyComplete
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\obj\Debug\BusinessPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\obj\Debug\BusinessPersonas.pdb
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\DataPersonas.dll
+C:\Users\thann\source\repos\SolWebServicePersonas\BusinessPersonas\bin\Debug\DataPersonas.pdb

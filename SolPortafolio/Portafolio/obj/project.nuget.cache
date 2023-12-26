@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyUmObH9gyLE0mGZ2ETEbuFZ4Pc9oo5PKZsqNxoKYvNPJkyTDmon07Q0Rfcqydr/j6JNfGwnrlf6UxGsmEnLmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thann\\source\\repos\\SolPortafolio\\Portafolio\\Portafolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thann\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

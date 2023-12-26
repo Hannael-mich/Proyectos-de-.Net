@@ -1,0 +1,12 @@
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\DataPalabras.dll.config
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\DataPalabras.dll
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\DataPalabras.pdb
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\EntityFramework.dll
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\EntityFramework.xml
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\obj\Debug\DataPalabras.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\obj\Debug\DataPalabras.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\obj\Debug\DataPalabras.csproj.CopyComplete
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\obj\Debug\DataPalabras.dll
+C:\Users\thann\source\repos\SolPalabrasVaComp\DataPalabras\obj\Debug\DataPalabras.pdb

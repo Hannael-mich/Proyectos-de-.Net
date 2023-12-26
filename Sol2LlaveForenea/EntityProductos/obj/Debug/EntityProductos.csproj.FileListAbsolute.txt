@@ -1,0 +1,6 @@
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\bin\Debug\EntityProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\bin\Debug\EntityProductos.pdb
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\obj\Debug\EntityProductos.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\obj\Debug\EntityProductos.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\obj\Debug\EntityProductos.dll
+C:\Users\thann\source\repos\Sol2LlaveForenea\EntityProductos\obj\Debug\EntityProductos.pdb

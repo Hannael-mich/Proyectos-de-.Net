@@ -1,0 +1,9 @@
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\bin\Debug\DataBusinessPersonas.dll
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\bin\Debug\DataBusinessPersonas.pdb
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\bin\Debug\EntityPersonas.dll
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\bin\Debug\EntityPersonas.pdb
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\obj\Debug\DataBusinessPersonas.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\obj\Debug\DataBusinessPersonas.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\obj\Debug\DataBusinessPersonas.csproj.CopyComplete
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\obj\Debug\DataBusinessPersonas.dll
+C:\Users\thann\source\repos\SolWCFPersonas\DataBusinessPersonas\obj\Debug\DataBusinessPersonas.pdb

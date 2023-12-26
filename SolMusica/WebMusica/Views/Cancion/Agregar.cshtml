@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Agregar</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h1 class="display-3">Nueva cancion</h1>
+        <form action="/Cancion/Agregar" method="post">
+            
+            <label>Titulo</label>
+            <input type="text" name="Titulo" class="form-control" />
+
+            <label>Artista</label>
+            <input type="text" name="Artista" class="form-control" />
+
+            <label>Album</label>
+            <input type="text" name="Album" class="form-control" />
+
+            <label>Duracion</label>
+            <input type="text" name="Duracion" class="form-control" />
+
+            <label>fecha de lanzamiento</label>
+            <input type="date" name="fechaLanzamiento" class="form-control" />
+
+            <label>Genero</label>
+            <input type="text" name="Genero" class="form-control" />
+
+
+            <input type="submit" value="Guardar" class="btn btn-success" />
+        </form>
+    </div>
+</body>
+</html>

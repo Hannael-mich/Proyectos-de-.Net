@@ -1,0 +1,2 @@
+C:\Users\thann\source\repos\SolPalabras\DataBusiness\obj\Debug\BusinessPalabras.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolPalabras\DataBusiness\obj\Debug\BusinessPalabras.csproj.CoreCompileInputs.cache

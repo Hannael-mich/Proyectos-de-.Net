@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Generacion23ModelStoreContainer" CdmEntityContainer="Generacion23Entities">
+    <EntitySetMapping Name="palabras">
+      <EntityTypeMapping TypeName="Generacion23Model.palabras">
+        <MappingFragment StoreEntitySet="palabras">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="palabra1" ColumnName="palabra1" />
+          <ScalarProperty Name="palabra2" ColumnName="palabra2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
